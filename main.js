@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".crop").animate({
+    /*$(".crop").animate({
         'margin-top': '+=120px',
         opacity: '+=1'
     }, 1500, function(){});
@@ -8,5 +8,5 @@ $(document).ready(function(){
         $("h1").animate({
             opacity: '+=1'
         }, 500, function(){})
-    })
+    });*/
 });
